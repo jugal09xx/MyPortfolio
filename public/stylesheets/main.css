@@ -17,7 +17,7 @@ html{
 }
 .centered {
   font-family: 'Nunito', sans-serif;
-	font-size: 15vh;
+	font-size: 3vh;
 	font-weight: 600;
 	color: white;
   position: absolute;
@@ -480,4 +480,13 @@ body{
 		font-size: 2vh;
 	}
 }
-
+#footer-icon{
+	color:slategray;
+	font-size: 2vh;
+}
+#footer-icon:hover{
+	color:white;
+}
+#icon-bar{
+	margin:auto;
+}
