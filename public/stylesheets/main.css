@@ -16,7 +16,7 @@ html{
 	transition: 0.3s ease-in-out;
 }
 .centered {
-  font-family: 'SF Display', sans-serif;
+  font-family: 'Nunito', sans-serif;
 	font-size: 15vh;
 	font-weight: 600;
 	color: white;
@@ -117,7 +117,7 @@ html{
 	width: 100%;
 	background: black;
 	height: 100vh;
-	font-family: 'SF Display', sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 .body2{
 	padding-top:15vh;
@@ -129,7 +129,7 @@ html{
 	font-family: 'Nunito', sans-serif;
 }
 .about-me-header{
-	font-family: 'SF Display', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-weight: 600;
 	font-size: 8vh;
 	text-align: left;
@@ -139,10 +139,10 @@ html{
 	font-size: 4vh;
 	margin-top:2vh;
 	text-align: left;
-	font-family: 'SF Display', sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 .aboutme-subtext{
-	font-family: 'SF Text';
+	font-family: 'Nunito';
 	font-size: 2.5vh;
 	font-weight: 400;
 	text-align: left;
@@ -191,7 +191,7 @@ body{
 	background: #121212;
 }
 .main-text{
-	font-family: 'SF Display', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-weight: 600;
 	color: white;
 	font-size: 10vh;
@@ -199,7 +199,7 @@ body{
 	animation-delay: 3.5s;
 }
 .main-text-2{
-	font-family: 'SF Display', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-weight: 600;
 	color: white;
 	font-size: 10vh;
@@ -295,7 +295,7 @@ body{
   }
 }
 .ul{
-	width: 8%;
+	width: 5%;
 	text-align: right;
 	margin-left: 20%;
 	padding-top: 5vh;
@@ -342,7 +342,7 @@ body{
 	transition: 0.3s ease-in-out;
 }
 .sec2-main{
-	font-family: 'SF Display', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-size: 8vh;
 	font-weight: 600;
 	animation: fadein 4s;
@@ -361,12 +361,12 @@ body{
 	box-shadow: 0px 0px 18px 0px #0000002c;
 }
 .portfolio-header{
-	font-family: 'SF Display', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-size: 10vh;
 	font-weight: 600;
 }
 .portfolio-subtext{
-	font-family: 'SF Text', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-weight: 300;
 	font-size: 3vh;
 	color: white;
@@ -388,12 +388,12 @@ body{
 	font-family: 'Nunito', sans-serif;
 }
 .covid-header{
-	font-family: 'SF Display', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-size:10vh;
 	font-weight: 600;
 }
 .covid-subtext{
-	font-family: 'SF Text', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-weight: 300;
 	font-size: 3vh;
 	margin-top: 8vh;
@@ -410,7 +410,7 @@ body{
 	transform: translatey(-10px);
 }
 .card-title{
-	font-family: 'SF Display';
+	font-family: 'Nunito';
 	font-weight: 600;
 	font-size: 4vh;
 }
